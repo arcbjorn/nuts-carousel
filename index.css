@@ -34,7 +34,7 @@ body {
 }
 
 .grabbable:active {
-  cursor: pointer;
+  cursor: grabbing;
   cursor: -moz-grabbing;
   cursor: -webkit-grabbing;
 }
